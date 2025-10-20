@@ -32,7 +32,7 @@ Aşağıdaki derleyicilerden biri yeterlidir — C++17 veya üzerini desteklemes
 - **g++** → Linux / macOS / Windows (MSYS2 veya WSL ile)
 - **clang** → macOS ve bazı Linux dağıtımları
 - **MSVC (Microsoft Visual C++)** → Visual Studio ile birlikte gelir
-> Eğer hangi derleyiciyi seçeceğinizi bilmiyorsanız, **g++ + Visual Studio Code ikilisi** öğrenmek için en pratik seçeektir.
+> Eğer hangi derleyiciyi seçeceğinizi bilmiyorsanız, **g++ + Visual Studio Code ikilisi** öğrenmek için en pratik seçenektir.
 
 ### ✅ Tercih edilebilecek IDE / Kod Editörü
 Kod yazmak ve çalıştırmak için şu editörlerden birini kullanabilirsiniz:
