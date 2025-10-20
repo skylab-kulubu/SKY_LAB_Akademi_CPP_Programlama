@@ -28,7 +28,7 @@ Her hafta ayrı bir klasör altında kod örnekleri bulunacaktır:
 C++ programlarını çalıştırabilmek için bilgisayarınızda bir **derleyici (compiler)** ve tercihen bir **kod editörü veya IDE** kurulu olmalıdır.
 
 ### ✅ Derleyici (Compiler)
-Aşağıdaki derleyicilerden biri yeterlidir — C++17 veya üzerini desteklemesi gerekir:
+Aşağıdaki derleyicilerden biri yeterlidir → C++17 veya üzerini desteklemesi gerekir:
 - **g++** → Linux / macOS / Windows (MSYS2 veya WSL ile)
 - **clang** → macOS ve bazı Linux dağıtımları
 - **MSVC (Microsoft Visual C++)** → Visual Studio ile birlikte gelir
@@ -40,7 +40,7 @@ Kod yazmak ve çalıştırmak için şu editörlerden birini kullanabilirsiniz:
 - **Visual Studio Code (önerilir)** 
 - **CLion** 
 - **Code::Blocks** 
-- **Sadece terminal + g++** — sade kullanım sevenler için 
+- **Sadece terminal + g++** → sade kullanım sevenler için 
 
 ---
 
