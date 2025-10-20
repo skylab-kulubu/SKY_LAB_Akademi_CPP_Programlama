@@ -1,5 +1,5 @@
 # SKY LAB Akademi CPP Programlama
-Bu repo, **25-26 SKY LAB Akademi C++ programlama eğitiminde** derste yazılan örnek kodları ve alıştırmaları içermektedir. Her hafta ders sonrası paylaşılacaktır. Katılımcıların derste anlatılan konuları tekrar edebilmesi, inceleyebilmesi ve pratik yapabilmesi amacıyla hazırlanmıştır.
+Bu repo, **25-26 SKY LAB Akademi C++ programlama eğitiminde** derste yazılan örnek kodları ve alıştırmaları içermektedir. Her hafta ders sonrası kodlar paylaşılacaktır. Katılımcıların derste anlatılan konuları tekrar edebilmesi, inceleyebilmesi ve pratik yapabilmesi amacıyla hazırlanmıştır.
 
 ---
 
@@ -7,9 +7,9 @@ Bu repo, **25-26 SKY LAB Akademi C++ programlama eğitiminde** derste yazılan �
 
 | Hafta | Konu Başlığı |
 |-------|---------------|
-| 1. Hafta | Temel syntax, giriş/çıkış (`iostream`), değişkenler, veri tipleri, karar yapıları (`if-else`, `switch`) |
-| 2. Hafta | Döngüler (`for`, `while`, `do-while`) ,fonksiyonlar, scope kavramı, time complexity, variadic arguements|
-| 3. Hafta | Recursion, Pointerlar, Değer ve Referansla Parametre Geçişi |
+| 1. Hafta | Temel syntax, girdi/çıktı (`iostream`), değişkenler, veri tipleri, karar yapıları (`if-else`, `switch`) |
+| 2. Hafta | Döngüler (`for`, `while`, `do-while`) , fonksiyonlar, time complexity, lambda fonksiyonları, variadic arguements|
+| 3. Hafta | Recursion, pointerlar, değer ve referansla parametre geçişi |
 | 4. Hafta | STL kütüphanesindeki hazır veri yapıları(`vector`, `queue`, `map`, `etc.`)  , OOP giriş|
 
 ---
