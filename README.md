@@ -8,17 +8,17 @@ Bu repo, **25-26 SKY LAB Akademi C++ programlama eğitiminde** derste yazılan �
 | Hafta | Konu Başlığı |
 |-------|---------------|
 | 1. Hafta | Temel syntax, girdi/çıktı (`iostream`), değişkenler, veri tipleri, karar yapıları (`if-else`, `switch`) |
-| 2. Hafta | Döngüler (`for`, `while`, `do-while`) , fonksiyonlar, time complexity, lambda fonksiyonları, variadic arguements|
+| 2. Hafta | Döngüler (`for`, `while`, `do-while`), fonksiyonlar ve türleri, time complexity, variadic arguments|
 | 3. Hafta | Recursion, pointerlar, değer ve referansla parametre geçişi |
-| 4. Hafta | STL kütüphanesindeki hazır veri yapıları(`vector`, `queue`, `map`, `etc.`)  , OOP giriş|
+| 4. Hafta | STL kütüphanesindeki veri yapıları(`vector`, `queue`, `map`, `etc.`), OOP'ye giriş|
 
 ---
 
 ## 📁 Klasör Yapısı
 
 Her hafta ayrı bir klasör altında kod örnekleri bulunacaktır:
-- hafta1
-- hafta2
+- [hafta1](./hafta1)
+- [hafta2](./hafta2)
 - hafta3
 - hafta4
 
@@ -29,18 +29,18 @@ C++ programlarını çalıştırabilmek için bilgisayarınızda bir **derleyici
 
 ### ✅ Derleyici (Compiler)
 Aşağıdaki derleyicilerden biri yeterlidir → C++17 veya üzerini desteklemesi gerekir:
-- **g++** → Linux / macOS / Windows (MSYS2 veya WSL ile)
-- **clang** → macOS ve bazı Linux dağıtımları
+- **g++** → Linux / macOS / Windows (MSYS2, MinGW veya WSL ile)
+- **clang** → Linux / macOS / Windows (MSYS2, MinGW veya WSL ile)
 - **MSVC (Microsoft Visual C++)** → Visual Studio ile birlikte gelir
 > Eğer hangi derleyiciyi seçeceğinizi bilmiyorsanız, **g++ + Visual Studio Code ikilisi** öğrenmek için en pratik seçenektir.
 
 ### ✅ Tercih edilebilecek IDE / Kod Editörü
 Kod yazmak ve çalıştırmak için şu editörlerden birini kullanabilirsiniz:
 
-- **Visual Studio Code (önerilir)** 
-- **CLion** 
-- **Code::Blocks** 
-- **Sadece terminal + g++** → sade kullanım sevenler için 
+- **Visual Studio Code (önerilir)**
+- **CLion**
+- **Code::Blocks**
+- **Herhangi bir yazı/kod editörü + g++** → sade kullanım sevenler için
 
 ---
 
