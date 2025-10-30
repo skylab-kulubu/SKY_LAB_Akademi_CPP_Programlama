@@ -19,7 +19,7 @@ Bu repo, **25-26 SKY LAB Akademi C++ programlama eğitiminde** derste yazılan �
 Her hafta ayrı bir klasör altında kod örnekleri bulunacaktır:
 - [hafta1](./hafta1)
 - [hafta2](./hafta2)
-- hafta3
+- [hafta3](./hafta3)
 - hafta4
 
 ---
